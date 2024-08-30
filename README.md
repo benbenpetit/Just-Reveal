@@ -8,12 +8,10 @@ Our team decided to focus on the positive events that may happened during that t
 
 [Searches](https://www.figma.com/file/aWTfM1eMRTB6jQwOteVXc2/Good-News?node-id=0%3A1&t=JP9jj5om94WwnMj6-1)
 
-
 [DEMO](https://workshop-just-reveal.vercel.app/)
 
-
 **Created with** :
-- [Benoît Petit](https://github.com/benbenpetit) - Dev
+- [Rama Herbin](https://github.com/RamaHerbin) - Dev
 - [Arthur Chevalier](https://github.com/arthurch3) - Dev
 - Émilie Kim - Designer
 - Luwdig Pilicer - Designer
